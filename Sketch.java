@@ -1,5 +1,10 @@
 import processing.core.PApplet;
 
+  /**
+  * Description: Prints out a flower that works with all dimensions
+  * @author: Aurora Chen
+  */
+
 public class Sketch extends PApplet {
 	
 	
